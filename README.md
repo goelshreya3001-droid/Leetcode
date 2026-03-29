@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0012-integer-to-roman) |
+| [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
