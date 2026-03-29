@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
