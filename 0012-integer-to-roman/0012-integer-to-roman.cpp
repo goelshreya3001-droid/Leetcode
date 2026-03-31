@@ -8,7 +8,7 @@ public:
         };
 
         string res = "";
-        for(auto &p : val) {
+        for(auto p : val) {
             while(num >= p.first) {
                 res += p.second;
                 num -= p.first;
