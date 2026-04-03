@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
