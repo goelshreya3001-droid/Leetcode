@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
