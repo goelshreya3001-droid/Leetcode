@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
+| [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 ## Counting Sort
 |  |
 | ------- |
