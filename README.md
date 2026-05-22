@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
