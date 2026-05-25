@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
