@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
