@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
