@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2906-construct-product-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sorting
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
