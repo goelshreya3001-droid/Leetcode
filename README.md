@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [1260-shift-2d-grid](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
