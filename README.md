@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0941-valid-mountain-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [1260-shift-2d-grid](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
