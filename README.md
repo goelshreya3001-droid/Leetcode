@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Prefix Sum
 |  |
