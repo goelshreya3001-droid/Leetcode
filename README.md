@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
