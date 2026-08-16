@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
