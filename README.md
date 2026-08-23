@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [1678-goal-parser-interpretation](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0575-distribute-candies) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
