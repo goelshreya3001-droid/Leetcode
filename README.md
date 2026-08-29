@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Sorting
 |  |
 | ------- |
