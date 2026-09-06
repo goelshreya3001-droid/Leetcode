@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -276,4 +278,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
