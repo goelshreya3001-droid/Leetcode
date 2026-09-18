@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0941-valid-mountain-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0942-di-string-match) |
 | [1260-shift-2d-grid](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0832-flipping-an-image](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0832-flipping-an-image) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/goelshreya3001-droid/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
