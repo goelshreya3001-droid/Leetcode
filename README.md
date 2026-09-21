@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Prefix Sum
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -317,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
