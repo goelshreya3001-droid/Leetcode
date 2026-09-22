@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -322,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/goelshreya3001-droid/Leetcode/tree/master/1025-divisor-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/goelshreya3001-droid/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
